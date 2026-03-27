@@ -1,0 +1,26 @@
+# Task 1 – Digital Literacy Awareness Infographic
+
+**Module:** 1 | **Marks:** 20
+
+## What I Made
+
+A one-page Digital Literacy Awareness Infographic created using Canva. The infographic is designed for first-year students and covers the following topics:
+
+- What Digital Literacy is and why it matters
+- Useful digital tools for students (GitHub, Google Workspace, Kaggle)
+- Safe internet practices (strong passwords, 2FA, phishing awareness)
+- Professional online presence tips
+
+## Tool Used
+
+**Canva** (canva.com) — free browser-based design tool with ready-made infographic templates.
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `infographic.png` | Exported final infographic |
+
+## Reflection
+
+*(This section is your own — write 2–3 sentences about what you found interesting or difficult while making it. Example: layout choices, picking colours, deciding what to include vs leave out.)*

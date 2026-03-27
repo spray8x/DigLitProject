@@ -1,0 +1,69 @@
+# CSE0001 – Digital Literacy Project
+
+| Field | Details |
+|-------|---------|
+| **Name** | Aditya Gaurav |
+| **Reg. No.** | 25BCE10530 |
+| **Branch** | B.Tech CSE Core |
+| **Year** | 1st Year (Batch 2029) |
+| **Course** | CSE0001 – Digital Literacy |
+
+---
+
+## Project Overview
+
+This repository contains my Digital Literacy Portfolio for CSE0001. As part of the Student Digital Ambassador scenario, I have completed five tasks covering infographic design, professional digital profiles, coding and collaboration platforms, email etiquette, and cybercrime awareness.
+
+---
+
+## Module Summaries
+
+| Task | Module | Description | Marks |
+|------|--------|-------------|-------|
+| Task 1 | Module 1 | Digital Literacy Awareness Infographic (Canva) | 20 |
+| Task 2 | Module 2 | Student Digital Portfolio – GitHub, LinkedIn, Kaggle | 20 |
+| Task 3 | Module 3 | Coding Platform (CodeChef) + Google Form Quiz | 20 |
+| Task 4 | Module 4 | Professional Email Drafts + Social Media Checklist | 20 |
+| Task 5 | Module 5 | Cybercrime Case Study + Prevention Checklist | 20 |
+
+---
+
+## Repository Structure
+
+```
+digital-literacy-project/
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+├── task-1-presentation/
+│   └── infographic.png
+├── task-2-portfolio/
+│   ├── github-profile.png
+│   ├── linkedin-profile.png
+│   └── kaggle-profile.png
+├── task-3-platforms/
+│   ├── codechef-challenge.png
+│   ├── google-form.png
+│   └── google-sheet-responses.png
+├── task-4-email-etiquette/
+│   ├── emails.md
+│   └── social-media-checklist.md
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
+```
+
+---
+
+## Links
+
+- **GitHub Profile:** https://github.com/spray8x
+- **LinkedIn:** https://www.linkedin.com/in/spray8x1
+- **Kaggle:** https://www.kaggle.com/vjpd07
+- **Digital Literacy Quiz (Google Form):** *(paste your form link here)*
+
+---
+
+## Academic Integrity
+
+All write-ups are in my own words. Screenshots are of my own accounts. External sources are cited in the report references section.
