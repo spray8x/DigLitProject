@@ -29,6 +29,7 @@ This repository contains my Digital Literacy Portfolio for CSE0001. As part of t
 ---
 
 ## Repository Structure
+```
 .
 ├── Project_Report.docx
 ├── README.md
@@ -52,6 +53,7 @@ This repository contains my Digital Literacy Portfolio for CSE0001. As part of t
 └── task-5-cybercrime
     ├── casestudy.md
     └── prevention-checklist.md
+```
 ---
 
 ## Links
