@@ -20,7 +20,3 @@ A one-page Digital Literacy Awareness Infographic created using Canva. The infog
 | File | Description |
 |------|-------------|
 | `infographic.png` | Exported final infographic |
-
-## Reflection
-
-*(This section is your own — write 2–3 sentences about what you found interesting or difficult while making it. Example: layout choices, picking colours, deciding what to include vs leave out.)*

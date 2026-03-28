@@ -29,30 +29,29 @@ This repository contains my Digital Literacy Portfolio for CSE0001. As part of t
 ---
 
 ## Repository Structure
-
-```
-digital-literacy-project/
+.
+├── Project_Report.docx
 ├── README.md
-├── report/
-│   └── Project_Report.pdf
-├── task-1-presentation/
-│   └── infographic.png
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── linkedin-profile.png
-│   └── kaggle-profile.png
-├── task-3-platforms/
-│   ├── codechef-challenge.png
-│   ├── google-form.png
-│   └── google-sheet-responses.png
-├── task-4-email-etiquette/
-│   ├── emails.md
-│   └── social-media-checklist.md
-└── task-5-cybercrime/
+├── task-1-presentation
+│   ├── canva-infographic.jpeg
+│   └── reflections.md
+├── task-2-portfolio
+│   ├── github-profile.png
+│   ├── kaggle-profile.png
+│   ├── linkedin-profile.png
+│   └── reflections.md
+├── task-3-platforms
+│   ├── codechef-profile.png
+│   ├── codechef-solved-problem.png
+│   ├── form-excel.png
+│   ├── form.png
+│   └── reflections.md
+├── task-4-email-etiquette
+│   ├── emails.md
+│   └── social-media-checklist.md
+└── task-5-cybercrime
     ├── casestudy.md
     └── prevention-checklist.md
-```
-
 ---
 
 ## Links
@@ -60,10 +59,10 @@ digital-literacy-project/
 - **GitHub Profile:** https://github.com/spray8x
 - **LinkedIn:** https://www.linkedin.com/in/spray8x1
 - **Kaggle:** https://www.kaggle.com/vjpd07
-- **Digital Literacy Quiz (Google Form):** *(paste your form link here)*
+- **Digital Literacy Quiz (Google Form):** *https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform*
 
 ---
 
 ## Academic Integrity
-
+`
 All write-ups are in my own words. Screenshots are of my own accounts. External sources are cited in the report references section.
